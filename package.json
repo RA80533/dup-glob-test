@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dup-glob": "*"
+  },
+  "private": true
+}
